@@ -1,6 +1,7 @@
 # Installing packages from CRAN
 install.packages("ggplot2")
 
+
 # Installing multiple packages at one
 install.packages(c("Rcmdr", "apple"))
 
